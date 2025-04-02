@@ -42,11 +42,11 @@ Now that you’ve compiled the code, you can run the antivirus scanner:
 
 Simply replace file_to_scan with the file you want to scan. (With file path, like `./antivirus /home/drkel/Downloads/Gorgeous_Freeman_2_Credit_Song_Loop.mp4`)
 
-Note: These instructions are for Version 0.1 (UNTESTED) — this may change in the future!
+Note: These instructions are for Version 0.1-3 (UNTESTED) — this may change in the future!
 
 # Version Info:
 
-- Last Updated: 3/21/2025
+- Last Updated: 4/2/2025
 
 - Current Version: 0.1 (UNTESTED)
 
