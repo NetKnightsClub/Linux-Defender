@@ -1,0 +1,33 @@
+
+
+python for confs
+
+import configparser
+
+def load_config(file_path):
+    config = configparser.ConfigParser()
+    config.read(file_path)
+    return config
+
+def main():
+    config_files = [
+        'config/access_control.conf',
+        'config/antivirus.conf',
+        'config/logging.conf',
+        'config/monitoring.conf',
+        'config/scanning.conf',
+        'config/update.conf'
+    ]
+
+    configs = {file: load_config(file) for file in config_files}
+
+    # Access specific configuration values
+    require_sudo = configs['config/access_control.conf'].getboolean('ROOT_ACCESS', 'require_sudo')
+    log_level = configs['config/logging.conf'].get('LOGGING', 'log_level')
+
+    # Use configuration values in your application
+    print(f'Require sudo: {require_sudo}')
+    print(f'Log Level: {log_level}')
+
+if __name__ == '__main__':
+    main()
