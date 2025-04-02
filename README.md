@@ -25,7 +25,7 @@ Linux Defender is an experimental security tool designed to help detect and miti
 
 # Installation & Usage
 
-Since this project is experimental, it’s not recommended for use outside a VM. **See Installation.md** in **`Linux-Defender/docs/installation.md`** for setup instructions.
+Since this project is experimental, it’s not recommended for use outside a VM. **See Installation.md** in `Linux-Defender/docs/installation.md` for setup instructions.
 
 # Version Info
 
