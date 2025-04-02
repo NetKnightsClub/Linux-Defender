@@ -7,7 +7,7 @@
  
 # About
 
-Linux Defender is an experimental security tool designed to help detect and mitigate potential threats on Linux systems. Inspired by Windows Defender, this project is currently in **very early development (v0.1-2, untested)** and should be **used only in virtual machines for now.** I take no responsibility if it decides to go goblin mode on your system.
+Linux Defender is an experimental security tool designed to help detect and mitigate potential threats on Linux systems. Inspired by Windows Defender, this project is currently in **very early development (v0.1-3, untested)** and should be **used only in virtual machines for now.** I take no responsibility if it decides to go goblin mode on your system.
 
 # Features (Planned & WIP)
 
@@ -29,7 +29,7 @@ Since this project is experimental, it’s not recommended for use outside a VM.
 
 # Version Info
 
-- **Last Updated:** 3/24/2025
+- **Last Updated:** 4/2/2025
 
 - **Current Version:** 0.1-3 (UNTESTED)
 
