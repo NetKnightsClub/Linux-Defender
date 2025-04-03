@@ -4,7 +4,7 @@ Hello, and welcome to the play-off of Windows Defender for Linux! 🚨
 
 This tool will help you scan files for potential malware using signatures. Let's get you set up with all the necessary dependencies and steps to run it.
 
-# Step 1: Install Dependencies
+# Step 1: Install Dependencies (IF the auto installer doesn't work.)
 
 Depending on your Linux distribution, use one of the following commands to install the required dependency (libcurl):
 
