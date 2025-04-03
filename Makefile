@@ -1,4 +1,5 @@
 # Something might be broken here, first time using makefile - Kel
+# Also I did uh... Use AI for this, come on I was in the middle of class and I was in a rush.
 # Define variables
 CC = gcc
 CFLAGS = -Wall -Werror
