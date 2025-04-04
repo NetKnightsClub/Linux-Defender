@@ -49,7 +49,7 @@ Note: These instructions are for Version 0.1-3 (UNTESTED) — this may change in
 
 - Last Updated: 4/2/2025
 
-- Current Version: 0.1 (UNTESTED)
+- Current Version: 0.1-3 (UNTESTED)
 
 ![Static Badge](https://img.shields.io/badge/Linux%20Defender%20Public%20License%20(LDPL)-1?style=flat&label=License&labelColor=grey&color=lightgrey)
 
