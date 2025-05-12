@@ -4,7 +4,11 @@
 
 ![Static Badge](https://img.shields.io/badge/Linux%20Defender%20Public%20License%20(LDPL)-1?style=flat&label=License&labelColor=grey&color=lightgrey)
 
- 
+> [!CAUTION]
+> This is a WIP Anti-Virus Application, and is not reccomended for use OUTSIDE OF VMS.
+> As this requires `su` (super user) access, it has root/admin access to your WHOLE system!
+> Which may damage some important system files, later on we plan on adding more .conf files to limit its access.
+
 # About
 
 Linux Defender is an experimental security tool designed to help detect and mitigate potential threats on Linux systems. Inspired by Windows Defender, this project is currently in **very early development (v0.1-3, untested)** and should be **used only in virtual machines for now.** I take no responsibility if it decides to go goblin mode on your system.
